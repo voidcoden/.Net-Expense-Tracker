@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Program.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
               "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Program.cs",
               "RelativeToolTip": "Expense Tracker\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T06:30:02.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\appsettings.json",
               "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
               "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\appsettings.json",
               "RelativeToolTip": "Expense Tracker\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-01T06:31:14.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\ApplicationDbContext.cs",
@@ -72,12 +72,11 @@
               "RelativeToolTip": "Expense Tracker\\Models\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:27:50.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:27:50.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
@@ -85,12 +84,11 @@
               "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:18:29.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:18:29.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:17:05.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:17:05.646Z"
             }
           ]
         }

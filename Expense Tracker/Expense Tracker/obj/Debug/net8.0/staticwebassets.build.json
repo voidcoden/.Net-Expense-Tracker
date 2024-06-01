@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q31Oyh+DfMyhB83wP/4SC1AI+SfX6MhWj9kgouvu2b8=",
+  "Hash": "dPa8uFS+YCHSVuYJAyLvgN5YCwj183Hj801pdSDX43Y=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\unnamed.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "unnamed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\unnamed.jpg"
     }
   ]
 }

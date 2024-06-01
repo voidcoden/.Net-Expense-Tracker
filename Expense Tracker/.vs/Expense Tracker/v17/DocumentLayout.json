@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\migrations\\20240601135324_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20240601135324_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\wwwroot\\unnamed.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\unnamed.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,102 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240601135324_Initial Create.cs",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
-              "RelativeToolTip": "Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:28:25.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
-              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:06:25.914Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "unnamed.jpg -  [English (United States)] - Bitmap [3023x2996, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\unnamed.jpg",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\unnamed.jpg",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\unnamed.jpg -  [English (United States)] - Bitmap [3023x2996, 24 bit, JPG]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\unnamed.jpg -  [English (United States)] - Bitmap [3023x2996, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-01T17:02:55.453Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [3023x2996, 24 bit, JPG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T15:50:19.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T15:49:29.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Expense Tracker\\Controllers\\TransactionController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwEIAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T15:46:22.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T14:05:45.16Z",
+              "WhenOpened": "2024-06-01T16:49:41.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
-              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:18:29.868Z",
+              "DocumentIndex": 0,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T16:49:16.183Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:47:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAABwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T16:46:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:46:23.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rU08+5n2nw=",
+  "dgSpecHash": "uBiTJb/rAKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SyafiqPC\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+  "projectFilePath": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SyafiqPC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SyafiqPC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

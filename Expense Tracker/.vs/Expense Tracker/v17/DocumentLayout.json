@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\migrations\\20240601135324_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20240601135324_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\syafiqpc\\documents\\github\\.net-expense-tracker\\expense tracker\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6D29A12-871D-4BE3-AA83-08B0FEE6E3C6}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,11 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20240601135324_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
+              "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20240601135324_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:59:54.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "unnamed.jpg -  [English (United States)] - Bitmap [3023x2996, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\unnamed.jpg",
               "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\unnamed.jpg",
@@ -50,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
@@ -58,25 +79,24 @@
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T16:49:41.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:49:41.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Sidebar.cshtml",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
               "ToolTip": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Sidebar.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T16:49:16.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Program.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
@@ -84,12 +104,11 @@
               "RelativeToolTip": "Expense Tracker\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:47:53.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:47:53.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
@@ -97,12 +116,11 @@
               "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAABwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T16:46:59.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:46:59.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\SyafiqPC\\Documents\\GitHub\\.Net-Expense-Tracker\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\DashboardController.cs",
@@ -110,12 +128,7 @@
               "RelativeToolTip": "Expense Tracker\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:46:23.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "WhenOpened": "2024-06-01T16:46:23.242Z"
             }
           ]
         }
